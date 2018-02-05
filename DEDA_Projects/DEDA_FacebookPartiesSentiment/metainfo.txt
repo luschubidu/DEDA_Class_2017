@@ -1,0 +1,10 @@
+Name of Quantlet : DEDA_FacebookPartiesSentiment
+Published in : Digital Economy and Decision Analytics
+Description :
+- This project is about finding out the sentiments of the messages the big german political parties post on facebook.
+Keywords :
+- Python
+- Facebook
+- Graph API
+- Sentimental Analysis
+Author : Christine Ludßuweit
